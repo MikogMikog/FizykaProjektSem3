@@ -49,7 +49,7 @@ Zalecane jest rozpoczęcie od ustawień domyślnych.
 **Podstawowe polecenie**
 
 ```bash
-python lightning_sim.py --scenario 1
+python lightning_sim.py
 ```
 
 ---
